@@ -1,0 +1,23 @@
+{
+  "name": "wtsolblog",
+  "version": "1.0.0",
+  "description": "STEP:1 clone the repository  STEP:2 Install Python3, django",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Altaf12sees/wtsolblog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Altaf12sees/wtsolblog/issues"
+  },
+  "homepage": "https://github.com/Altaf12sees/wtsolblog#readme",
+  "dependencies": {
+    "mongoose": "^5.12.9",
+    "underscore": "^1.13.1"
+  }
+}
